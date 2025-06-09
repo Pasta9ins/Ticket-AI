@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: all;
+}
+
+/* --- START EDIT --- */
+/* Global background design: subtle gradient with a light dot pattern */
+/*  */
