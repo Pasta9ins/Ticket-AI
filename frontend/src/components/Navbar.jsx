@@ -60,10 +60,10 @@ function Navbar() {
             <Link to="/about" className="btn btn-ghost btn-sm">
               About
             </Link>
-            <Link to="/signup" className="btn btn-sm">
+            <Link to="/signup" className="btn btn-ghost btn-sm">
               Signup
             </Link>
-            <Link to="/login" className="btn btn-sm">
+            <Link to="/login" className="btn btn-ghost btn-sm">
               Login
             </Link>
           </>
