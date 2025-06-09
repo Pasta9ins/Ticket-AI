@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <div className="max-w-2xl mx-auto p-8 bg-base-100 rounded-lg shadow-lg mt-10">
+    <div className="max-w-2xl mx-auto p-8 bg-base-200 rounded-lg shadow-lg mt-10">
       <h1 className="text-3xl font-bold mb-4 text-primary">About Ticket AI</h1>
       <p className="mb-4">
         <strong>Ticket AI</strong> is a smart ticket management system designed to help users, moderators, and admins efficiently handle support requests and issues.
