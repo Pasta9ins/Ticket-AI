@@ -57,6 +57,9 @@ function Navbar() {
       <div className="flex gap-2">
         {!token ? (
           <>
+            <Link to="/about" className="btn btn-ghost btn-sm">
+              About
+            </Link>
             <Link to="/signup" className="btn btn-sm">
               Signup
             </Link>
